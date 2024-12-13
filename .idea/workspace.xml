@@ -5,35 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef17ddd5-df1d-4712-8350-137fc0c1d827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/dependency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/api/v1/questions/questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/api/v1/subjects/subjects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/api/v1/teachers/teachers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/api/v1/topics/topics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/questions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/questions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/questions/questions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/subjects/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/subjects/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/subjects/subjects.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/teachers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/teachers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/teachers/teachers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/topics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/topics/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/v1/topics/topics.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/db/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/db/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/question.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/subject.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/teacher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/topic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/api/v1/questions/questions.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/questions/questions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/api/v1/subjects/subjects.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/subjects/subjects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/api/v1/teachers/teachers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/teachers/teachers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/api/v1/topics/topics.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/topics/topics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

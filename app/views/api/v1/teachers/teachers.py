@@ -1,13 +1,7 @@
+from fastapi import APIRouter
 
 from models import Teacher
-
-from typing import Annotated
-
-from sqlalchemy.orm import Session
-from fastapi import APIRouter, Depends
-
 from dependency import db_session_depend
-
 from db import get_teachers_pydantic
 
 router = APIRouter()

@@ -1,4 +1,3 @@
-
 from fastapi import APIRouter
 
 from dependency import db_session_depend
