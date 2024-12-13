@@ -5,38 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef17ddd5-df1d-4712-8350-137fc0c1d827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BackendMisis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/questions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/questions/questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/subjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/subjects/subjects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/teachers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/teachers/teachers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/topics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/topics/topics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/subject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dependency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/api/v1/questions/questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/api/v1/subjects/subjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/api/v1/teachers/teachers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/api/v1/topics/topics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/questions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/questions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/questions/questions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/subjects/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/subjects/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/subjects/subjects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/teachers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/teachers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/teachers/teachers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/topics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/api/v1/topics/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/topics/topics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/db/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/question.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/subject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/teacher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/topic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Dockerfile" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -63,19 +60,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.init.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/tpk256/source/repos/TicketPick/BackendMisis"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.init.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tpk256/source/repos/TicketPick/BackendMisis&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tpk256\source\repos\TicketPick\BackendMisis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tpk256\source\repos\TicketPick\BackendMisis\app\views" />
       <recent name="C:\Users\tpk256\source\repos\TicketPick\BackendMisis\app" />
       <recent name="C:\Users\tpk256\source\repos\TicketPick\BackendMisis" />
     </key>
@@ -148,16 +146,5 @@
       <updated>1733926165185</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

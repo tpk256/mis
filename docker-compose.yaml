@@ -37,11 +37,14 @@ services:
     build: ./app
     ports:
       - "25565:8000"
+    environment:
+      URL: postgresql://admin:admin@postgres/mydatabase
     networks:
       - my_network
     depends_on:
       - pgadmin
       - init
+      - postgres
 
 volumes:
   postgres_data:
